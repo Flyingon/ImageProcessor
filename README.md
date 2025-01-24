@@ -8,7 +8,9 @@
 - 英文：https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english
 
 ## 下载
-https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0 当前只支持 Mac OS
+- https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0 当前只支持 Mac OS
+- 没有签名，直接下载编译好的需要允许打开所有来源：[参考](https://www.insta360.com/cn/support/supportcourse?post_id=16882)
+- 或者自己编译
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/7bb3df02-bc3c-4137-9a11-4917bac253cb" />
 
 

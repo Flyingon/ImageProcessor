@@ -4,8 +4,8 @@
 - 主要不断实现自己常用的工具，方便生活
 
 ## 说明
-- 中文：https://github.com/Flyingon/ImageProcessor/wiki/%E8%AF%B4%E6%98%8E%E4%B9%A6%E2%80%90%E4%B8%AD%E6%96%87
-- 英文：https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english
+- 中文：[中文说明](https://github.com/Flyingon/ImageProcessor/wiki/%E8%AF%B4%E6%98%8E%E4%B9%A6%E2%80%90%E4%B8%AD%E6%96%87)
+- 英文：[英文说明](https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english)
 
 ## 下载
 - https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0 当前只支持 Mac OS

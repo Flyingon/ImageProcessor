@@ -6,6 +6,9 @@
 ## 说明
 - 中文：https://github.com/Flyingon/ImageProcessor/wiki/%E8%AF%B4%E6%98%8E%E4%B9%A6%E2%80%90%E4%B8%AD%E6%96%87
 - 英文：https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english
+
+## 下载
+https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/7bb3df02-bc3c-4137-9a11-4917bac253cb" />
 
 

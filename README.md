@@ -8,7 +8,7 @@
 - 英文：https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english
 
 ## 下载
-https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0
+https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0 当前只支持 Mac OS
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/7bb3df02-bc3c-4137-9a11-4917bac253cb" />
 
 

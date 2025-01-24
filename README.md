@@ -1,11 +1,11 @@
 
 ## 介绍
 - 该代码主要靠 AI 生成，用到 QT + OpenCv
-- 主要不断实现自己常用的工具，方便生活
+- 目标是不断实现自己常用的工具，打造最好用、最简单的工具
 
 ## 说明
 - 中文：[中文说明](https://github.com/Flyingon/ImageProcessor/wiki/%E8%AF%B4%E6%98%8E%E4%B9%A6%E2%80%90%E4%B8%AD%E6%96%87)
-- 英文：[英文说明](https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english)
+- English：[English Introduction](https://github.com/Flyingon/ImageProcessor/wiki/Introducation%E2%80%90english)
 
 ## 下载
 - https://github.com/Flyingon/ImageProcessor/releases/tag/v1.0.0 当前只支持 Mac OS
@@ -26,12 +26,12 @@ make
 
 ### 打包
 当前只支持 Mac Os
-会把 QT + OpenCv 所有依赖都打包进去，所以显得比较大
+会把 QT + OpenCv 所有依赖都打包进去，所以结果包比较大
 ```
 ./deploy
 ```
 
-### 检查打包结果
+### 检查打包结果(一般不用检查)
 ```
 ./check_app.sh build/ImageProcessor.app
 ```
